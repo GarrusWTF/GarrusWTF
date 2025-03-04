@@ -28,11 +28,21 @@
 
 </div>
 
-<div align="center">
+<div align="center" style="block">
 
+<div>
 
+<br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=4B9552&center=true&multiline=true&width=435&height=60&lines=Text+me+on+Telegram;%3A)" alt="Typing SVG" /></a>
+![github_stats](https://stats-24mc.vercel.app/api?username=garruswtf&show_icons=true&theme=default#gh-light-mode-only#left)
+
+<br>
+
+![lang_stats](https://stats-24mc.vercel.app/api/top-langs/?username=garruswtf&layout=donut#right)
+
+</div>
+
+<a href="https://benikov.t.me/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=4B9552&center=true&multiline=true&width=435&height=60&lines=Text+me+on+Telegram;%3A)" alt="Typing SVG" /></a>
 
 [![Databases](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://benikov.t.me)
 
