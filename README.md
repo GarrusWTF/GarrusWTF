@@ -1,53 +1,44 @@
-## Hi 👋 okay!
-### I'm GarrusWTF 
-#### Python Backend Developer
+<center>
 
----
-
-<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B9552&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi%2C+there!;I'm+GarrusWTF;Backend+Python+Developer+" alt="Typing SVG" /></a>
 
 
-#### Contact me
+![waka](https://wakatime.com/badge/user/25cb8bc2-985d-42c6-8ba3-82442b37f6ed.svg)
+</center>
+
+
+<div align="center">
+
+|Languages |Frameworks|Brokers| Tools|
+|:----------:|:----------:|:---------:|:-------:|
+![](https://skillicons.dev/icons?i=python,rust&perline=2)| ![py](https://skillicons.dev/icons?i=fastapi,django&perline=3)|![Brokers](https://skillicons.dev/icons?i=kafka,rabbitmq)| ![tools](https://skillicons.dev/icons?i=postman,git&perline=3)|
+|**IDE**|**Other**|**Databases**|**Deployment**|
+|![pycharm](https://skillicons.dev/icons?i=pycharm,vscode)|![other](https://skillicons.dev/icons?i=cloudflare,powershell,regex,ubuntu&perline=2)|  ![Databases](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,redis&perline=2)|![deployment technologies](https://skillicons.dev/icons?i=docker,nginx,bash,linux&perline=2)|
+
+
+</div>
+
+<div align="center">
+
+| Software | Preference |
+|:-------------:|:-------------:|
+| Text Editor | ![Nano](https://img.shields.io/badge/nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white) |
+|OS | ![os](https://skillicons.dev/icons?i=windows,ubuntu) |
+
+
+</div>
+
+<center>
+
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=4B9552&center=true&multiline=true&width=435&height=60&lines=Text+me+on+Telegram;%3A)" alt="Typing SVG" /></a>
 
 [![Databases](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://benikov.t.me)
 
-* Python
-* FastAPI
-* Django
-* SQLAlchemy
 
+<br>
+<br>
 
-#### Languages
-
-![Language](https://skillicons.dev/icons?i=python,golang&perline=3) 
-
-#### Python Frameworks
-![py](https://skillicons.dev/icons?i=fastapi,django&perline=3)
-
-|      Databases        |    In-memory databases     |
-| --------------------- | -------------------------- |
-| ![Databases](https://skillicons.dev/icons?i=mysql,postgresql,sqlite&perline=3)  | ![InMemory](https://skillicons.dev/icons?i=redis,&perline=3)      | 
-
-
-
-#### Message Brokers
-
-![Brokers](https://skillicons.dev/icons?i=kafka,rabbitmq)
-
-
-#### Deployment
-![deployment technologies](https://skillicons.dev/icons?i=docker,nginx,bash,linux,git,github)
-
-#### Other
-
-![other](https://skillicons.dev/icons?i=cloudflare,powershell,regex,ubuntu)
-
-#### Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-| Software | Preference |
-| ------------- | ------------- |
-| IDE | ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
-| Text Editor | ![Nano](https://img.shields.io/badge/nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white) |
-|OS | ![Windows](https://img.shields.io/badge/Windows-0078D7?style=for-the-badge&logoColor=white) |
-| Browser | ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) |
+![Jokes Card](https://readme-jokes.vercel.app/api)
+</center>
