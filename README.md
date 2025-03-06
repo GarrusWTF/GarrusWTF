@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B9552&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi%2C+there!;I'm+GarrusWTF;Backend+Python+Developer+" alt="Typing SVG" /></a>
 
 
-<a href="https://wakatime.com/@25cb8bc2-985d-42c6-8ba3-82442b37f6ed"><img src="https://wakatime.com/badge/user/25cb8bc2-985d-42c6-8ba3-82442b37f6ed.svg" alt="Total time coded since Mar 1 2025" /></a>
+[![wakatime](https://wakatime.com/badge/user/25cb8bc2-985d-42c6-8ba3-82442b37f6ed.svg)](https://wakatime.com/@25cb8bc2-985d-42c6-8ba3-82442b37f6ed)
 </div>
 
 
