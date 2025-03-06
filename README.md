@@ -34,11 +34,11 @@
 
 <br>
 
-![github_stats](https://stats-24mc.vercel.app/api?username=garruswtf&show_icons=true&theme=default#gh-light-mode-only#left)
+![github_stats](https://stats-24mc.vercel.app/api?username=garruswtf&show_icons=true&theme=default#gh-light-mode-only)
 
 <br>
 
-![lang_stats](https://stats-24mc.vercel.app/api/top-langs/?username=garruswtf&layout=donut#right)
+![lang_stats](https://stats-24mc.vercel.app/api/top-langs/?username=garruswtf&layout=donut)
 
 </div>
 
