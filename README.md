@@ -11,7 +11,7 @@
 
 |Languages |Frameworks|Brokers| Tools|
 |:----------:|:----------:|:---------:|:-------:|
-![](https://skillicons.dev/icons?i=python,c&perline=2)| ![py](https://skillicons.dev/icons?i=fastapi,django&perline=3)|![Brokers](https://skillicons.dev/icons?i=kafka,rabbitmq)| ![tools](https://skillicons.dev/icons?i=postman,git&perline=3)|
+![](https://skillicons.dev/icons?i=python,rust&perline=2)| ![py](https://skillicons.dev/icons?i=fastapi,django&perline=3)|![Brokers](https://skillicons.dev/icons?i=kafka,rabbitmq)| ![tools](https://skillicons.dev/icons?i=postman,git&perline=3)|
 |**IDE**|**Other**|**Databases**|**Deployment**|
 |![pycharm](https://skillicons.dev/icons?i=pycharm,vscode)|![other](https://skillicons.dev/icons?i=cloudflare,powershell,regex,ubuntu&perline=2)|  ![Databases](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,redis&perline=2)|![deployment technologies](https://skillicons.dev/icons?i=docker,nginx,bash,linux&perline=2)|
 
